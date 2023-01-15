@@ -109,7 +109,7 @@ x = 0
 
 while True:
     msg = mqtt.check_msg()
-    print("I other important stuff")
+    print("I test")
     
 
     
